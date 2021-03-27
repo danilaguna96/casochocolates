@@ -1,0 +1,17 @@
+Tipo de Productos  | % Acumulado | Clasificacion
+------------------ | ------------|--------------
+Unidad             | 40,7%       |A
+Pack               | 76,3%       |A
+Caja               | 84,5%       |B
+Bolsa              | 90,4%       |B
+Botella            | 95,3%       |B
+Lata               | 99,5%       |C
+Estuche            | 99,8%       |C
+Agranel            | 100%        |C
+
+
+Participación  |Clasificación de n 
+-------------- | ------------------
+ 0% - 80%      |        A
+81% - 95%      |        B
+96% - 100%     |        C
